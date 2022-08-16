@@ -13,5 +13,6 @@ Complete the following tasks:
 1. [Sentiment Analysis](#1---Sentiment-Analysis)
 2. [Natural Language Processing](#2---Natural-Language-Processing)
 3. [Named Entity Recognition](#3---Named-Entity-Recognition)
-
 ---
+![WC1](https://user-images.githubusercontent.com/93293695/184955287-2c44ab4b-823a-48ef-b872-4886605ecf78.png)
+![WC2](https://user-images.githubusercontent.com/93293695/184955307-d83e2b02-d305-485f-9945-bf7837c53fe6.png)
